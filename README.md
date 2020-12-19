@@ -1,16 +1,19 @@
-### Hi there 👋
+ Omer Mohamed
 
-<!--
-**OmerMinzar/OmerMinzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project #1
 
-Here are some ideas to get you started:
+http://eve.kean.edu/~mohameom/Achievements.html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Description: My personal website
+
+Project #2
+
+http://eve.kean.edu/~mohameom/checkout.html
+
+Description: A front-end prototype of an E-commerce website
+
+Project #3
+
+http://eve.kean.edu/~mohameom/index.html
+
+Description: A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
